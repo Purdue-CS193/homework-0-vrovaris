@@ -1,6 +1,6 @@
 ## Vitor's First CS193 Homework
 
-What I love avout CS193: 
+What I love about CS193: 
 
 - Useful content!
 - Kind and funny instructors!
