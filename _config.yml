@@ -1,4 +1,4 @@
-theme: THEME-CAYMAN
+theme: jekyll-theme-CAYMAN
 plugins:
 - jekyll-remote-theme
 
