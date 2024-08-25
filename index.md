@@ -1,4 +1,4 @@
-## Vitor's First CS193 Homework
+## Vitor's first CS193 homework
 
 What I love about CS193: 
 
