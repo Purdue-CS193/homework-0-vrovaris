@@ -6,14 +6,13 @@ What I love about CS193:
 - Kind and funny instructors!
 - No midterms or finals!
 
-### Markdown
-
 ```markdown
+Leaving this just to remember how to edit the page :)
+
 Syntax highlighted code block
 
-# 
-## Header 2
-### Header 3
+# Testing
+## Headers
 
 - Bulleted
 - List
